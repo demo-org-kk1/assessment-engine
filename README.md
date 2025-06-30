@@ -16,3 +16,5 @@ Redis: redis://user:redis_secret_2023@cache.kodekloud.com:6379
 ## External Integrations
 - **Stripe:** sk_live_51234567890abcdefghijklmnop
 - **SendGrid:** SG.1234567890abcdef.ghijklmnopqrstuvwxyz1234567890
+
+`Allstar commit`
