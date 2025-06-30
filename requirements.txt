@@ -1,0 +1,7 @@
+Flask==1.0.2
+SQLAlchemy==1.2.0
+requests==2.18.4
+Pillow==5.4.1
+PyYAML==3.13
+Django==2.1.0
+psycopg2==2.7.7
